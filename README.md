@@ -17,3 +17,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/advanced-django
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3000142/3000142-1641428250754-16x9.jpg
+
+. venv/scripts/activate
