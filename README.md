@@ -19,6 +19,7 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3000142/3000142-1641428250754-16x9.jpg
 
 . venv/scripts/activate
+python manage.py runserver
 
 http://127.0.0.1/
 http://127.0.0.1/admin/
